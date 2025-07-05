@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repository
 <br>
-author-Kirti Sharma
+author-Kirti Sharma(apna college)
